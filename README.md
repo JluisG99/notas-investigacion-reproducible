@@ -1,5 +1,5 @@
-# Notas sobre investigación reproducible y análisis de datos  
-### Reproducibilidad  
+# **Notas sobre investigación reproducible y análisis de datos**  
+### **Reproducibilidad**  
 
 El término **reproducibilidad** (o _reproducibility_, en inglés) se refiere a la capacidad de reproducir un trabajo de investigación, de manera  
 que sus resultados puedan ser obtenidos por otros al seguir la misma metodología. Usualmente, la reproducibilidad requiere que los datos  
@@ -8,7 +8,7 @@ concepto está relacionado con el de __replicabilidad__ (o _replicability_, en i
 consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos  
 conceptos son elementos centrales de la investigación científica.  
 
-### Importancia de la reproducibilidad  
+### **Importancia de la reproducibilidad**  
 
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:  
 
@@ -26,7 +26,7 @@ en los nombres de los genes, debido a los parámetros de configuración de Micro
 ![](https://gf0604-procesamientodatosgeograficos.github.io/2022-i/img/ZiemannEtAlFig1.png)  
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).  
 
-### Bibliografía  
+### **Bibliografía**  
 
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos,  
 F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open Science Training Handbook. Zenodo_.   
