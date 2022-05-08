@@ -8,7 +8,7 @@ concepto está relacionado con el de __replicabilidad__ (o _replicability_, en i
 consistentes (no idénticos) al replicar un estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos  
 conceptos son elementos centrales de la investigación científica.  
 
-### Importancia de la reproducibilidad  
+### **Importancia de la reproducibilidad**  
 
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:  
 
