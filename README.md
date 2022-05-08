@@ -12,8 +12,8 @@ conceptos son elementos centrales de la investigación científica.
 
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:  
 
-    > "_Al día de hoy, pocos resultados publicados son reproducibles en un sentido práctico. Verificarlos requiere de tanto esfuerzo como el_  
-    > _que tomó crearlos. Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados. Por esta razón,_  
+    > "_Al día de hoy_, _pocos resultados publicados son reproducibles en un sentido práctico_. _Verificarlos requiere de tanto esfuerzo como el_  
+    > _que tomó crearlos_. _Después de un tiempo, incluso los autores son incapaces de reproducir sus propios resultados_. _Por esta razón,_  
     > _muchas personas ignoran la mayor parte de la literatura científica_." (Claerbout, 1992)
 
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la  
